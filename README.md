@@ -57,6 +57,12 @@ SystemVerilog Assertions are used to catch protocol violations immediately:
 
 ---
 
+## 🔌 System Level Diagram
+
+The SPI Wrapper integrates the **SPI Slave** and **Single Port RAM**. The block diagram below illustrates the top-level interface and the internal signal mapping between the two sub-blocks.
+
+![System Level Block Diagram]<img width="2101" height="1030" alt="Image" src="https://github.com/user-attachments/assets/44718378-6de6-48a4-90cc-0331f169a78f" />
+
 ## 📂 Repository Structure
 The project is organized into three main folders corresponding to the design phases:
 
