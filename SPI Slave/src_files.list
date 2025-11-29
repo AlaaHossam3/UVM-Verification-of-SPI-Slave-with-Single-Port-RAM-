@@ -1,0 +1,15 @@
+SPI_slave.sv
+SPI_ref_model.sv
+shared_pkg.sv
+SPI_if.sv
+SPI_config.sv
+SPI_seq_item.sv
+SPI_seq.sv
+SPI_sqr.sv
+SPI_monitor.sv
+SPI_driver.sv
+SPI_cov_collector.sv
+SPI_agent.sv
+SPI_env.sv
+SPI_test.sv
+top.sv
