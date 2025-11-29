@@ -1,9 +1,7 @@
 # UVM Verification of SPI Slave with Single Port RAM
 
 ## 📖 Overview
-This project contains a comprehensive **SystemVerilog/UVM Verification Environment** for a generic SPI (Serial Peripheral Interface) Slave controller integrated with a Single Port RAM. 
-
-The testbench is designed to validate the protocol compliance of the SPI interface and the data integrity of memory operations (Read/Write) under various randomized conditions.
+This project contains a comprehensive **SystemVerilog/UVM Verification Environment** for a SPI (Serial Peripheral Interface) Slave integrated with a Single Port RAM. 
 
 ## 🏗️ Project Architecture
 
